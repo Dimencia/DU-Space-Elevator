@@ -6,6 +6,8 @@ Space elevators for DU
 This is a typical elevator meant for use in a shaft and can work with hovers or vboosters installed at an angle, pointing at walls on all sides.  Example shown here - note that you likely need 2 hovers/vboosters per corner to keep everything centered
 ![Elevator Setup Example](/SpaceExampleSetup.png)
 
+![Elevator Screen Example](/ElevatorScreenExample.png)
+
 You will also likely need lateral thrusters - thrusters pointing north, east, south, west, which help keep it centered within the shaft in situations where the hovers can't do so without causing undesired altitude changes.  
 
 Like most space elevators, the advantages here are that hovers and vboosters are fuel efficient, and can give great power and speed for their size and cost, as long as you have a shaft all the way up.  It is capable of taking multiple altitudes as stops and cycling between them, and hovering at the given altitude.
