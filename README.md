@@ -46,3 +46,5 @@ Your elevator will need, as described before, hovers facing the walls at an angl
 ## This elevator is not actually tested in space yet.  We're getting there
 
 Otherwise, you may set the MaxSpeed lua parameter to control the max vertical speed in m/s.  Going too fast may cause it to hit the sides of the shaft and have problems.  There may be problems depending on your particular setup.
+
+It overshoots its destination by a few meters when going up currently on my test elevator, even though I've already destroyed the math to make it not.  I don't know what it will do on heavier elevators, which it didn't used to do.  But I think this is a good tradeoff for the smoother hovering and centering
