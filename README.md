@@ -1,6 +1,8 @@
 # DU-Space-Elevator
 Space elevators for DU
 
+# Note - These don't really work.  They are WIP and may work over short distances but will likely encounter trouble with longer shafts.  There are issues with the speed limiting as well
+
 ### Shaft Edition
 
 This is a typical elevator meant for use in a shaft and can work with hovers or vboosters installed at an angle, pointing at walls on all sides.  Example shown here - note that you likely need 2 hovers/vboosters per corner to keep everything centered
